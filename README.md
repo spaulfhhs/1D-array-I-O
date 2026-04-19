@@ -1,9 +1,10 @@
 
 <h1>1D-array-I-O</h1>
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<h2>Program Impliments:</h2>
+  - [1D-array-I-O_JAVA](https://github.com/spaulfhhs/1D-array-I-O_JAVA)
 
+<h2>Description</h2>
   Project consists of a program to perform the following given a file containing integers: Open the input file, reads and counts the number of integers in the input file. Dynamically allocates an 1D integer array, of size count. Closes and re-opens the input file. Loads the data from input file into the 1D array. Outputs the data stored in the array to output file. 
 <br />
 
